@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Trained models (regenerate via app)
+models/*.joblib
+
+# Local virtual environment
+HM/
